@@ -1,0 +1,43 @@
+命令稿啟動於 2017年03月14日 上午 11:19:34
+]0;/cygdrive/d/c++
+[32masus@DESKTOP-SQIL2F6 [33m/cygdrive/d/c++[0m
+$ whoaml[Ki;pwd
+asus
+/cygdrive/d/c++
+]0;/cygdrive/d/c++
+[32masus@DESKTOP-SQIL2F6 [33m/cygdrive/d/c++[0m
+$ git config-l
+git: 'config-l' is not a git command. See 'git --help'.
+]0;/cygdrive/d/c++
+[32masus@DESKTOP-SQIL2F6 [33m/cygdrive/d/c++[0m
+$ git config-l -l[C
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+diff.astextplain.textconv=astextplain
+rebase.autosquash=true
+credential.helper=manager
+]0;/cygdrive/d/c++
+[32masus@DESKTOP-SQIL2F6 [33m/cygdrive/d/c++[0m
+$ git clone https://git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Khttps://github.com/billqwer1687/lab1.git
+bash: https://github.com/billqwer1687/lab1.git: No such file or directory
+]0;/cygdrive/d/c++
+[32masus@DESKTOP-SQIL2F6 [33m/cygdrive/d/c++[0m
+$ https://github.com/billqwer1687/lab1.gitghttps://github.com/billqwer1687/lab1.git[C[C[Cihttps://github.com/billqwer1687/lab1.git[C[C[C[Cthttps://github.com/billqwer1687/lab1.git[C[C[C[C[C https://github.com/billqwer1687/lab1.git[C[C[C[C[C[Cchttps://github.com/billqwer1687/lab1.git[C[C[C[C[C[C[Clhttps://github.com/billqwer1687/lab1.git[C[C[C[C[C[C[C[Cohttps://github.com/billqwer1687/lab1.git[C[C[C[C[C[C[C[C[Cnhttps://github.com/billqwer1687/lab1.git[C[C[C[C[C[C[C[C[C[Cehttps://github.com/billqwer1687/lab1.git[C[C[C[C[C[C[C[C[C[C[C https://github.com/billqwer1687/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C
+Cloning into 'lab1'...
+remote: Counting objects: 4, done.[K
+remote: Compressing objects:  25% (1/4)   [Kremote: Compressing objects:  50% (2/4)   [Kremote: Compressing objects:  75% (3/4)   [Kremote: Compressing objects: 100% (4/4)   [Kremote: Compressing objects: 100% (4/4), done.[K
+Unpacking objects:  25% (1/4)   Unpacking objects:  50% (2/4)   Unpacking objects:  75% (3/4)   remote: Total 4 (delta 0), reused 4 (delta 0), pack-reused 0[K
+Unpacking objects: 100% (4/4)   Unpacking objects: 100% (4/4), done.
+]0;/cygdrive/d/c++
+[32masus@DESKTOP-SQIL2F6 [33m/cygdrive/d/c++[0m
+$ exit
+
+命令稿已於 2017年03月14日 上午 11:21:37
+ 完成
